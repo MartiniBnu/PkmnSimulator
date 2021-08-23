@@ -3,7 +3,7 @@ This is a project that I've worked at least 15 years ago, in 2005... In that tim
 
 I compiled it on Borland Delphi 7, and to execute, you just have to click on exec/PrjSimulador.exe (Remember to keep all the dataX.bin, Dlls and Skin folder on the exec folder)
 
-![Logo](./PkmnSimulator.png)<br />
+![Logo](./src/PkmnSimulator.png)<br />
 
 On this program you can simulate the Pokémon trainning (IVs, EVs, Nature, item) and store on your boxes.
 
